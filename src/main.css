@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.header {
+  @apply mt-4 text-2xl font-bold text-center text-red-500;
+}
+
+@tailwind utilities;
